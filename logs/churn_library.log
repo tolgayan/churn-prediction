@@ -1,1 +1,7 @@
-root - ERROR - Testing import_eda: The file wasn't found
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing add_churn_col: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing perform_eda: SUCCESS
+root - INFO - Testing perform_feature_engineering: SUCCESS
+root - INFO - Testing train_models output plots: SUCCESS
+root - INFO - Testing train_models models: SUCCESS
